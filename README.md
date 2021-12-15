@@ -29,3 +29,4 @@ These functions are finalized in the playGame function. Aside from organizing al
 ![Code_Image](./images/Code.png)
 
 # Link to Youtube Video
+https://www.youtube.com/watch?v=Jp25GDwvsfw
